@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: HDBR
+      - name: Popular contadores reais (Commits +12 000, Repos +103)
+        run: python3 .github/scripts/populate-3d-numbers.py profile-3d-contrib/*.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions

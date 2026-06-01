@@ -182,11 +182,42 @@ Bancos de Dados    ████████████████░░░░ 
 ### GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hdbr&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdbr&layout=compact&count_private=true&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=hdbr&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=900" alt="GitHub Streak Stats" width="100%" />
 </div>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
+
+---
+
+<div align="center">
+
+```
+██╗  ██╗██████╗ ██████╗ ██████╗ 
+██║  ██║██╔══██╗██╔══██╗██╔══██╗
+███████║██║  ██║██████╔╝██████╔╝
+██╔══██║██║  ██║██╔══██╗██╔══██╗
+██║  ██║██████╔╝██████╔╝██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+                                
+███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ ███████╗
+██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗██╔════╝
+███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║███████╗
+╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║╚════██║
+███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝███████║
+╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝ ╚══════╝
+                                                      
+```
+
+<sub><i>AI-First Dev · Self-Hosting Everything · DevOps for Life</i></sub>
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:2563eb&height=100&section=footer" width="100%" />

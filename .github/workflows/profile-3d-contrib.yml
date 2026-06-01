@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: HDBR
+      - name: Limpar SVGs (só barras 3D, remove radar + painel de números)
+        run: python3 .github/scripts/clean-3d-svg.py profile-3d-contrib/*.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
